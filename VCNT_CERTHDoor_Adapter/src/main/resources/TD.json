@@ -1,0 +1,79 @@
+{
+	"adapter-id": "certh_door_sensor_adapter",
+	"thing-descriptions":
+	[{
+			"oid": "certh_door_s1",
+			"name": "CERTH Door Sensor 1",
+			"type": "adapters:DoorSensor",
+			"properties": [],
+			"actions": [],
+			"events": [{
+					"eid": "entry",
+					"monitors": "adapters:OpenClosed",
+					"output": {
+						"type": "object",
+						"field": [{
+								"name": "ID",
+								"schema": {
+									"type": "string"
+								}
+							}, {
+								"name": "event",
+								"schema": {
+									"type": "integer"
+								}
+							}, {
+								"name": "battery",
+								"schema": {
+									"type": "string"
+								}
+							}, {
+								"name": "timestamp",
+								"schema": {
+									"type": "string"
+								}
+							}
+						]
+					}
+				}
+			]
+		},
+		{
+			"oid": "certh_door_s2",
+			"name": "CERTH Door Sensor 2",
+			"type": "adapters:DoorSensor",
+			"properties": [],
+			"actions": [],
+			"events": [{
+					"eid": "entry",
+					"monitors": "adapters:OpenClosed",
+					"output": {
+						"type": "object",
+						"field": [{
+								"name": "ID",
+								"schema": {
+									"type": "string"
+								}
+							}, {
+								"name": "event",
+								"schema": {
+									"type": "integer"
+								}
+							}, {
+								"name": "battery",
+								"schema": {
+									"type": "string"
+								}
+							}, {
+								"name": "timestamp",
+								"schema": {
+									"type": "string"
+								}
+							}
+						]
+					}
+				}
+			]
+		}
+	]
+}

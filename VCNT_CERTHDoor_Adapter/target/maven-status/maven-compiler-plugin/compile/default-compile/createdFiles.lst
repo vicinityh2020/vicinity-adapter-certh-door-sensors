@@ -1,0 +1,9 @@
+vicinity\adapter\VCNT_CERTHDoor_Adapter\VcntCerthDoorSensorAdapterApplication.class
+vicinity\adapter\VCNT_CERTHDoor_Adapter\CallRestfulService_Generic$Variable.class
+vicinity\adapter\VCNT_CERTHDoor_Adapter\Utils.class
+vicinity\adapter\VCNT_CERTHDoor_Adapter\CallRestfulService_Generic.class
+vicinity\adapter\VCNT_CERTHDoor_Adapter\ThingDescription.class
+vicinity\adapter\VCNT_CERTHDoor_Adapter\EventForwarding.class
+vicinity\adapter\VCNT_CERTHDoor_Adapter\Response.class
+vicinity\adapter\VCNT_CERTHDoor_Adapter\VcntCerthDoorAdapterController.class
+vicinity\adapter\VCNT_CERTHDoor_Adapter\Measurement.class

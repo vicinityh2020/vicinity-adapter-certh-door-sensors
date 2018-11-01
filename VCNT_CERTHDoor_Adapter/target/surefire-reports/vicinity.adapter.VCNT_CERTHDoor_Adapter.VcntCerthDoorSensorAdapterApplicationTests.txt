@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: vicinity.adapter.VCNT_CERTHDoor_Adapter.VcntCerthDoorSensorAdapterApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 6.007 s - in vicinity.adapter.VCNT_CERTHDoor_Adapter.VcntCerthDoorSensorAdapterApplicationTests
